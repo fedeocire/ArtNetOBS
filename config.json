@@ -1,0 +1,14 @@
+{
+    "OBSWsIPAddr": "127.0.0.1",
+    "OBSWsPort": 4455,
+    "OBSWsPass": "Artnetobs",
+    "AutoConnect": true,
+    "GeneralUniv": 1,
+    "GeneralAddr": 1,
+    "Collection 12Fonte di colore1chkbox": true,
+    "Collection 12Fonte di colore1Univ": 1,
+    "Collection 12Fonte di colore1Addr": 1,
+    "Collection 12Fonte multimediale2chkbox": false,
+    "Collection 12Fonte multimediale2Univ": null,
+    "Collection 12Fonte multimediale2Addr": null
+}
