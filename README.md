@@ -5,3 +5,5 @@
 ArtNetOBS allows you to control OBS Studio via the Artnet protocol.
 
 It uses the OBS Websocket 5.1.0 protocol
+
+Art-Net™ Designed by and Copyright Artistic Licence Engineering Ltd
